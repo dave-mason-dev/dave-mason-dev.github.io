@@ -2,7 +2,7 @@
 
 This was a fun bit of development work with a couple of gotcha's, so I thought I'd write it up into a blog post in case anyone is trying to o the same thing.
 
-![ngrok webhook](/assets/images/ngrok-webhook##.png)
+![ngrok webhook](/assets/images/ngrok-webhook.png)
 
 ## The Problem
 
