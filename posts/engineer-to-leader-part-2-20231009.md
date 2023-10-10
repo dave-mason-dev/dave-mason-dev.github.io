@@ -2,7 +2,7 @@
 
 ## Core Principles: Conversations
 
-During my career so far, I've been lucky enough to work for and with some great leaders. The only thing they all have in common, is that they have nothing in common. Some of them have been inspirational technologists, some have been excellent people motivators, some have been expert strategists. There's not one way to be a great leader, you just need to understand what your own strengths are, than tailor your game accordingly.
+During my career so far, I've been lucky enough to work for and with some great leaders. However, I couldn't tell you a single thing that they all have in common. Some of them have been inspirational technologists, some have been excellent people motivators, some have been expert strategists. There's not one way to be a great leader, you just need to understand what your own strengths are, than tailor your game accordingly.
 
 However, I do think there are a set of core actions that every leader should be doing. Plus, if you're like me and tend to worry about whether you're doing the right thing or not, having a set list of things to do can be quite comforting.
 
