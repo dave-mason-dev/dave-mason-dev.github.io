@@ -1,5 +1,8 @@
 # Latest Posts
 
+![Engineer to Leader - Core Principles - Conversations](/assets/images/feedback.png)
+[Engineer to Leader - Part 2: Core Principles - Conversations](/posts/engineer-to-leader-part-1-20230807)
+
 ![Engineer to Leader](/assets/images/boss-1.jpg)
 [Engineer to Leader - Part 1](/posts/engineer-to-leader-part-1-20230807)
 
