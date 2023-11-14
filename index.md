@@ -1,5 +1,8 @@
 # Latest Posts
 
+![Pact Testing with .NET](/assets/images/pact-dotnet.png)
+[Pact Testing with .NET](/posts/pact-testing-dot-net-20231113)
+
 ![Engineer to Leader - Core Principles - Conversations](/assets/images/feedback.png)
 [Engineer to Leader - Part 2: Core Principles - Conversations](/posts/engineer-to-leader-part-2-20231009)
 
