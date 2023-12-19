@@ -1,5 +1,8 @@
 # Latest Posts
 
+![What I'm Looking For as a Hiring Manager](/assets/images/tech-interview.jpeg)
+[What I'm Looking For as a Hiring Manager](/posts/what-im-looking-for-as-a-hiring-manager-20231116)
+
 ![Pact Testing with .NET](/assets/images/pact-dotnet.png)
 [Pact Testing with .NET](/posts/pact-testing-dot-net-20231113)
 
